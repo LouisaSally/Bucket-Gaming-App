@@ -69,6 +69,7 @@ flutter run
 ## 🖼️ Screenshots
 ![image](https://github.com/user-attachments/assets/9ac18a2e-2265-44d7-af69-8b6d40068989)
 ![image](https://github.com/user-attachments/assets/d2386856-7e4d-4f90-9073-5390d3564643)
+![image](https://github.com/user-attachments/assets/e59a4062-7c34-4ff1-beb3-77144eb964d4)
 
 
 
